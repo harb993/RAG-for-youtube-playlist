@@ -1,4 +1,4 @@
-Here’s a clean and well-structured 2-page README file for your project that extracts and embeds YouTube playlist transcripts using `pytube`, `youtube-transcript-api`, `transformers`, `faiss`, and `chromadb`.
+## note to make pipeline efficient and production-ready use Choose a Suitable LLM API
 
 ---
 
@@ -136,7 +136,7 @@ Each transcript is stored along with metadata such as:
 
 ---
 
-## 🙌 Acknowledgments
+##  Acknowledgments
 
 - [HuggingFace Transformers](https://huggingface.co/transformers/)
 - [FAISS by Facebook](https://github.com/facebookresearch/faiss)
